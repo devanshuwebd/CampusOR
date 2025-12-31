@@ -13,13 +13,13 @@ export const queueLoadMock = [
 
 // tokensServedMock.ts (Recommended - bar or column chart)
 export const tokensServedPerHourMock = [
-  { hour: "09–10", served: 18 },
-  { hour: "10–11", served: 32 },
-  { hour: "11–12", served: 40 },
-  { hour: "12–13", served: 27 },
-  { hour: "13–14", served: 15 },
-  { hour: "14–15", served: 29 },
-  { hour: "15–16", served: 36 },
+  { hour: "09 - 10", served: 18 },
+  { hour: "10 - 11", served: 32 },
+  { hour: "11 - 12", served: 40 },
+  { hour: "12 - 13", served: 27 },
+  { hour: "13 - 14", served: 15 },
+  { hour: "14 - 15", served: 29 },
+  { hour: "15 - 16", served: 36 },
 ];
 
 
